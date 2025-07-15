@@ -56,6 +56,8 @@ Create a `.env` file in the project root:
 REDDIT_CLIENT_ID=your_reddit_client_id_here
 REDDIT_CLIENT_SECRET=your_reddit_client_secret_here
 REDDIT_USER_AGENT=PersonaBot/1.0
+REDDIT_USERNAME=your_reddit_username_here
+REDDIT_PASSWORD=your_reddit_password_here
 
 # GEMINI API Configuration
 GEMINI_API_KEY=your_gemini_api_key_here
@@ -107,7 +109,7 @@ Generated on: 2024-01-15 14:30:45
 
 ACTIVITY SUMMARY:
 - Total Posts: 45
-- Total Comments: 123
+- Total Comments: 49
 - Average Post Score: 15.2
 - Average Comment Score: 8.7
 - Top 5 Subreddits: r/programming(23), r/python(15), r/MachineLearning(12)
