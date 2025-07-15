@@ -1,0 +1,127 @@
+============================================================
+USER PERSONA REPORT FOR: kojied
+Generated on: 2025-07-15 20:04:46
+============================================================
+
+ACTIVITY SUMMARY:
+- Total Posts: 15
+- Total Comments: 49
+- Average Post Score: 11.80
+- Average Comment Score: 8.55
+- Top 5 Subreddits: r/ManorLords(9), r/OnePiece(7), r/AskReddit(6), r/AskNYC(6), r/warriors(6)
+
+============================================================
+
+# USER PERSONA
+
+## DEMOGRAPHIC INFORMATION
+**Age Range**: Late 20s to early 40s (Millennial)
+**Citations**:
+*   "Then a girl pointed at me and referred to me as the old person." (Post: I feel violated by intern season, 2025-07-13) - Implies they are older than the 18-20 year olds.
+*   "There's so many coming of age movies for boomers and millennials, what about for gen-Z?" (Post: What’s a movie that best represents your childhood?, 2024-08-14) - Suggests they are not Gen Z, but aware of generational differences.
+*   "Millenials have less kids, so they have more time and money to spend on themselves. Millenials are also getting married less and later in life, meaning we allocate more effort on self care" (Comment in AskReddit, 2025-05-30) - Explicitly identifies with the Millennial generation.
+
+**Location**: New York City, USA
+**Citations**:
+*   "use the New York nightlife as their own personal orgy dome." (Post: I feel violated by intern season, 2025-07-13)
+*   "If you had to spend one full day eating your way through NYC..." (Comment in FoodNYC, 2025-06-15) - Responding to a NYC-specific food question with local recommendations.
+*   "Not in Chelsea but Washington square park has the pigeon whisperer." (Comment in AskNYC, 2024-12-30) - Providing advice for NYC locations.
+*   "Just laid off. What daytime NYC stuff should I do?" (Comment in AskNYC, 2025-02-27) - Responding to a NYC-specific post.
+
+**Occupation/Field**: iOS/VisionOS Developer (Tech), with a background or interest in Environmental Consulting
+**Citations**:
+*   "Hey I’m an iOS developer building in visionOS." (Post: Best blogs, tutorial channels to learn, 2024-03-01) - Direct statement of profession.
+*   "without github and visual studio code, it’s not been the easiest (also obviously no terminal). I could use Mac virtual display... Also where’s Xcode?" (Post: Can you actually “work” in AVP?, 2024-02-05) - Discussing developer tools.
+*   "as someone who’s worked in environmental consulting, I felt that we needed a more direct way of getting ESG ratings into the mass conscience." (Post: Tracking our individual impacts on the world through ESG ratings, 2023-08-22) - Stating past work experience.
+
+## PERSONALITY TRAITS
+**Communication Style**: Inquisitive, Analytical, Reflective, and Direct
+**Citations**:
+*   "Do people have recommendations on resources to catch up on new featuresets for spacial computing?" (Post: Best blogs, tutorial channels to learn, 2024-03-01) - Demonstrates an inquisitive nature.
+*   "Am I not the same as they are, just at a longer time horizon? I'm also a transient being in the city." (Post: I feel violated by intern season, 2025-07-13) - Shows self-reflection and philosophical thought.
+*   "The whole concept is something that mostly grew into a concept in the UK around 1824... it’s pretty easy for the “1%” to control the “story of our world” through archeologists and historians." (Post: 【Theory】 What if we live in the void 800 century, 2023-12-22) - Displays an analytical and critical thinking style.
+*   "Sorry to hear that man, in the future you may want to have multiple granaries, one close to your berries/deer/fish and one for your veggies/apples/honey." (Comment in ManorLords, 2025-07-12) - Provides direct, helpful advice.
+*   "the NFT craze has not settled into something sustainable, it's dead." (Comment in NFT, 2025-06-03) - Direct and opinionated.
+
+**Values and Beliefs**: Socially conscious, Skeptical of established narratives, Values sustainability and personal well-being.
+**Citations**:
+*   "Naturally I felt violated But then again, I thought to myself. Am I not the same as they are, just at a longer time horizon? ...who am I to judge how others enjoy this adventurous city." (Post: I feel violated by intern season, 2025-07-13) - Shows an initial negative reaction followed by self-reflection and a non-judgmental stance.
+*   "The birth of Western history is in the Middle East... That way, the true history of how the WG came to be won’t come into light... it’s pretty easy for the “1%” to control the “story of our world” through archeologists and historians." (Post: 【Theory】 What if we live in the void 800 century, 2023-12-22) - Expresses skepticism towards mainstream historical narratives and power structures.
+*   "Individual ESG scores could elevate sustainable conscience to another level, which would lead to climate activism on a larger scale." (Post: Tracking our individual impacts on the world through ESG ratings, 2023-08-22) - Highlights strong environmental values and a desire for collective action.
+*   "Millenials have less kids, so they have more time and money to spend on themselves. Millenials are also getting married less and later in life, meaning we allocate more effort on self care" (Comment in AskReddit, 2025-05-30) - Suggests a value for self-care and personal allocation of resources.
+
+**Interests and Hobbies**: Gaming, Technology, Urban Life & Culture, Personal Finance, Environmentalism, and Anime/Manga.
+**Citations**:
+*   "Most Active Subreddit: ManorLords" (User Activity Summary) - Strong interest in city-building/strategy games.
+*   "Best blogs, tutorial channels to learn Hey I’m an iOS developer building in visionOS." (Post: Best blogs, tutorial channels to learn, 2024-03-01) - Interest in cutting-edge technology and development.
+*   "Would you guys like to see Pokemon Go in AVP?" (Post: Would you guys like to see Pokemon Go in AVP?, 2024-02-05) - Interest in AR gaming.
+*   "I feel violated by intern season... New York nightlife" (Post: I feel violated by intern season, 2025-07-13) - Interest in urban social scene.
+*   "Breakfast - Buvette Coffee - Lyria Lunch - Tsukemen okiboru Coffee - La cabra Dinner - Isodi Drinks - Double chicken please" (Comment in FoodNYC, 2025-06-15) - Interest in food and dining experiences.
+*   "I want to transfer from Robinhood, but WB only allows 50k transfers at a time." (Post: 50k at a time?, 2020-03-20) and "I’ve been trading options for the past month or so, and have made good money." (Post: Still buying options?, 2020-03-17) - Interest in stock market and personal finance.
+*   "Individual ESG scores could elevate sustainable conscience to another level, which would lead to climate activism on a larger scale." (Post: Tracking our individual impacts on the world through ESG ratings, 2023-08-22) - Interest in environmental and social issues.
+*   "【Theory】 What if we live in the void 800 century" (Post: OnePiece, 2023-12-22) and "Source: I’m Japanese" (Comment in OnePiece, 2025-05-18) - Strong interest in One Piece manga/anime and Japanese culture.
+*   "English ivy in critical condition" (Post: plantclinic, 2023-08-13) - Interest in plants/gardening.
+
+## BEHAVIORAL PATTERNS
+**Reddit Usage**: Active and engaged, uses Reddit for both information gathering, problem-solving, and community discussion across a variety of niche and general subreddits.
+**Citations**:
+*   "Total Posts: 15 / Total Comments: 49" (User Activity Summary) - Indicates active participation, more so in commenting.
+*   "Most Active Subreddit: ManorLords (9)" (User Activity Summary) - Engages deeply in specific game communities, often providing advice.
+*   "Top 5 Subreddits: ManorLords(9), OnePiece(7), AskReddit(6), AskNYC(6), warriors(6)" (User Activity Summary) - Shows a diverse range of interests and active participation in multiple communities.
+*   "I've been lurking in this channel for a while now, and have been greatly inspired by the ways people have found ways to stretch their money." (Post: How do you decide what to buy and not buy?, 2023-08-17) - Indicates a mix of lurking and active participation.
+
+**Social Behavior**: Generally helpful and collaborative, offers advice and insights, but can also be critical or opinionated. Engages in discussions and debates.
+**Citations**:
+*   "Sorry to hear that man, in the future you may want to have multiple granaries..." (Comment in ManorLords, 2025-07-12) - Offering practical advice to another user.
+*   "You have to kill the bandit units, or donate crop yields though the manor (tithing, different from taxation)." (Comment in ManorLords, 2025-07-05) - Providing solutions to common game problems.
+*   "It’s pretty hard to get consistent characters when they’re photorealistic tbh. I guess our eyes are more lenient when it’s cartoon. Any tips for photo realism would be appreciated!" (Comment in ChatGPT, 2025-04-03) - Engaging in a technical discussion, seeking further information.
+*   "He used to shoot well and have impact when no one had him on the radar... Now that there’s pressure to perform... he’s not doing so well." (Comment in warriors, 2024-12-31) - Offering an analytical opinion on a sports player's performance.
+*   "the NFT craze has not settled into something sustainable, it's dead." (Comment in NFT, 2025-06-03) - Directly stating a strong opinion.
+
+**Problem-Solving Approach**: Analytical, seeks external resources, and attempts to develop systematic solutions; identifies pain points and proposes improvements.
+**Citations**:
+*   "Do people have recommendations on resources to catch up on new featuresets for spacial computing?" (Post: Best blogs, tutorial channels to learn, 2024-03-01) - Seeks external knowledge to solve a learning gap.
+*   "I’ve been trying to actually use the Vision Pro to get some work done, but without github and visual studio code, it’s not been the easiest... I’m sure it’ll get resolved down the line (more of a software issue than hardware constraints)" (Post: Can you actually “work” in AVP?, 2024-02-05) - Identifies a problem, analyzes its root cause (software vs. hardware), and anticipates future solutions.
+*   "is there a way to develop a mental model on what we buy or don't buy? ...My initial idea was an app that would enable users to track the "gratification" they receive from their purchases." (Post: How do you decide what to buy and not buy?, 2023-08-17) - Attempts to create a systematic approach to a personal finance problem.
+*   "I feel that we needed a more direct way of getting ESG ratings into the mass conscience... The first step towards voting with our dollars is to be aware of our current ESG impact." (Post: Tracking our individual impacts on the world through ESG ratings, 2023-08-22) - Proposes a solution to a societal problem.
+
+## GOALS AND MOTIVATIONS
+**Primary Goals**: Professional development in emerging tech, financial optimization and independence, contributing to environmental/social change, and enhancing personal experiences (e.g., gaming, tech use).
+**Citations**:
+*   "Hey I’m an iOS developer building in visionOS. Do people have recommendations on resources to catch up on new featuresets for spacial computing?" (Post: Best blogs, tutorial channels to learn, 2024-03-01) - Goal of professional growth in a new field.
+*   "I’ve been trading options for the past month or so, and have made good money." (Post: Still buying options?, 2020-03-17) and "is there a way to develop a mental model on what we buy or don't buy?" (Post: How do you decide what to buy and not buy?, 2023-08-17) - Motivated by financial gain and smart money management.
+*   "Individual ESG scores could elevate sustainable conscience to another level, which would lead to climate activism on a larger scale." (Post: Tracking our individual impacts on the world through ESG ratings, 2023-08-22) - Driven by a desire for positive environmental and social impact.
+*   "I’m curious if people have been able to fully port their workflow into AVP." (Post: Can you actually “work” in AVP?, 2024-02-05) - Goal to integrate new technology into daily productivity.
+
+**Pain Points**: Limitations of current technology, societal frustrations (e.g., "intern season" behavior, perceived control by "1%"), challenges in game progression, and the perceived decline of online communities.
+**Citations**:
+*   "I felt violated by intern season" (Post: I feel violated by intern season, 2025-07-13) - Frustration with perceived changes in social environment.
+*   "without github and visual studio code, it’s not been the easiest (also obviously no terminal)... M1 MBP the latency is noticeable... I already dropped $4k on this device, renewing my MBP just so I can use it with my AVP is asking a bit too much… Also where’s Xcode?" (Post: Can you actually “work” in AVP?, 2024-02-05) - Significant frustration with the current limitations and cost-effectiveness of a new tech device.
+*   "I do too but I rarely finish a game haha. Too little late game content" (Comment in ManorLords, 2025-07-05) - Frustration with game design/content.
+*   "the NFT craze has not settled into something sustainable, it's dead... Can't believe there's 2.7M members here. That alone should tell you that NFTs are no longer something people are interested in." (Comment in NFT, 2025-06-03) - Disappointment with the state of a once-promising digital community/market.
+
+## TECHNOLOGY USAGE
+**Tech Savviness**: Very High, an early adopter and developer of cutting-edge technology.
+**Citations**:
+*   "I’m an iOS developer building in visionOS." (Post: Best blogs, tutorial channels to learn, 2024-03-01) - Demonstrates professional-level technical skills.
+*   "Watching Edgerunners on the moon feels Thank you u/overpaidengineer for the inspo" (Post: VisionPro, 2024-02-08) and "Killer feature: accessing chatGPT (iPad app) and using audio as primary input" (Post: VisionPro, 2024-02-08) - Early adopter and experimenter with Apple Vision Pro.
+*   "Would you guys like to see Pokemon Go in AVP? ...Niantic's Lightship ARDK will work on AVP." (Post: Would you guys like to see Pokemon Go in AVP?, 2024-02-05) - Deep understanding of AR development platforms.
+*   "Can you actually “work” in AVP? ...without github and visual studio code... M1 MBP... Xcode" (Post: Can you actually “work” in AVP?, 2024-02-05) - Familiarity with professional development tools and hardware.
+*   "I used AI to create this short film on human cloning (600 prompts, 12 days, $500 budget)" (Comment in ChatGPT, 2025-07-10) and "It’s pretty hard to get consistent characters when they’re photorealistic tbh." (Comment in ChatGPT, 2025-04-03) - Engages with and understands AI/generative media.
+
+**Digital Habits**: Uses digital platforms for professional development, staying informed on tech trends, consuming and discussing entertainment, managing personal finances, and engaging in community-driven problem-solving.
+**Citations**:
+*   "Best blogs, tutorial channels to learn Hey I’m an iOS developer building in visionOS." (Post: visionosdev, 2024-03-01) - Uses Reddit for professional learning.
+*   "Watching Edgerunners on the moon feels" (Post: VisionPro, 2024-02-08) - Uses new tech for entertainment consumption.
+*   "I want to transfer from Robinhood, but WB only allows 50k transfers at a time." (Post: Webull, 2020-03-20) - Uses online platforms for financial management.
+*   "I’ve been lurking in this channel for a while now, and have been greatly inspired by the ways people have found ways to stretch their money." (Post: Frugal, 2023-08-17) - Uses online communities for practical advice.
+*   "imagine making 60fps videos with photos from OAI images. nothing on the internet can be trusted" (Comment in ChatGPTJailbreak, 2025-03-28) - Aware of digital manipulation and its implications.
+
+## ADDITIONAL INSIGHTS
+**Unique Characteristics**: Japanese cultural background, exhibits deep analytical and philosophical thought, early adopter of new technology, and has a strong interest in urban planning/simulation games.
+**Citations**:
+*   "Source: I’m Japanese" (Comment in OnePiece, 2025-05-18) - Direct statement of cultural background.
+*   "Fyi it says “Dear mom, everything I encounter from now is thanks to you” (It’s a Mother’s Day special chocolate)" (Comment in OnePiece, 2025-04-29) - Translating Japanese text, further confirming cultural background.
+*   "【Theory】 What if we live in the void 800 century... The whole concept is something that mostly grew into a concept in the UK around 1824... it’s pretty easy for the “1%” to control the “story of our world”" (Post: OnePiece, 2023-12-22) - Demonstrates a tendency for complex, multi-layered theoretical analysis connecting fiction to real-world history and power dynamics.
+*   "I already dropped $4k on this device" (Post: Can you actually “work” in AVP?, 2024-02-05) - Evidence of being an early adopter willing to invest significantly in new technology.
+*   "I do too but I rarely finish a game haha. Too little late game content" (Comment in ManorLords, 2025-07-05) and "I build my cities close to the borders of others, that way I'm not managing multiple cities at once." (Comment in ManorLords, 2025-06-20) and "Can’t really discuss this without your strategy. If you’re setting up on the coast over river, your strategy must involve maritime trades." (Comment in civ5, 2025-03-28) - Reveals a deep engagement with strategy and city-building games, including nuanced mechanics and meta-strategies.
