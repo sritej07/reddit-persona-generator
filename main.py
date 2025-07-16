@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
 Reddit User Persona Generator
-Scrapes Reddit user data and generates detailed user personas using GEMINI GPT-4
+Scrapes Reddit user data and generates detailed user personas using GEMINI 2.5 Flash
 """
 
 import sys
